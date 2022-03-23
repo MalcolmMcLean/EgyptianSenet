@@ -3,6 +3,8 @@
 An implementation of this ancient Egyptian board game. We don't know the rules,
 so feel free to modify the source to create your own rules.
 
+![Screenshot](images/SenetScreenshot.png)
+
 ## To play
 Click on the sticks, which the Egyptians used instead of dice. That gives you
 how far a pawn can move. Hover over your pawns, and when you get a blue light,
