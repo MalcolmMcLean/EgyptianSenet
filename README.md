@@ -16,7 +16,7 @@ We're on CMake.
       mkdir build
       cmake ..
 
-Then compile isn the Visual Studio IDE.
+Then compile in the Visual Studio IDE.
 
 If you don't have CMake, create a new Visual Studio project manually nad drop the
 files into it.
